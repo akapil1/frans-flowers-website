@@ -214,8 +214,8 @@ body {
   display: inline-block;
   margin-top: 20px;
   padding: 10px 22px;
-  background-color: #e49191c9;
-  color: #0c9151ca;
+  background-color: #c86a6a; /* soft rose */
+color: white;
   font-weight: 600;
   text-decoration: none;
   border-radius: 8px;
@@ -507,6 +507,11 @@ section h2 {
 .price-was {
   text-decoration: line-through;
   color: #999;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: 0.3s ease;
 }
 
 /* Seasonal Picks Section */
