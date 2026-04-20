@@ -1,6 +1,6 @@
 # 🌸 Fran’s Flowers Website Redesign
 
-A modern, responsive website redesign for a locally owned flower shop, focused on improving usability, visual appeal, and customer experience.
+A modern, responsive website redesign for a small local flower shop, focused on improving usability, visual appeal, and customer engagement.
 
 🔗 **Live Demo:** https://akapil1.github.io/frans-flowers-website/
 
